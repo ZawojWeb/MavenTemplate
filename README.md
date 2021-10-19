@@ -5,5 +5,7 @@
 - Ready to use pom.xml with exec-maven-plugin
 - Ready to use UML file project.uxf
   
- Before start you have to have installed maven and checkstyle for java vsc extension
+ Before start you have to have installed maven and checkstyle for java vsc extension.
+
+ A good alternative for CheckStyle and PMD is SonarLint. To set SonarLint as formatter you have to go to settings end set as Default Fromatter.
     
